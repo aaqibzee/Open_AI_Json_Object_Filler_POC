@@ -1,6 +1,6 @@
 ﻿public class Constants
 {
-    public const string apiKey = "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";
+    public const string apiKey = "";
     public const string endPointUrl = "https://api.openai.com/v1/completions";
     public const string modelType = "gpt-3.5-turbo-1106";
     public static int maxTokens = 256;
